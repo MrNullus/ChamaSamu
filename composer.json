@@ -14,5 +14,7 @@
             "email": "gustavojs417@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        'php': '5^'
+    }
 }
