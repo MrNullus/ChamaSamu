@@ -15,6 +15,10 @@
         }
     ],
     "require": {
-        'php': 7
+        'php': '>= 7.4 && < 8.0'
+    },
+    "recommend": {
+        'phpstan/phpstan': '^0.12',
+        'symfony/debug-pack': '^5.4'
     }
 }
