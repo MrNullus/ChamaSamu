@@ -1,0 +1,18 @@
+{
+    "name": "punk/chama-samu",
+    "description": "Debugger PHP do Sabada\u0000o",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Punk\\ChamaSamu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Punk",
+            "email": "gustavojs417@gmail.com"
+        }
+    ],
+    "require": {}
+}
