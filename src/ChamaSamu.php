@@ -1,5 +1,8 @@
 <?php
 
+namespace PunkSama\ChamaSamu;
+
+
 class ChamaSamu {
 
     // Método privado para adicionar estilos CSS à saída de depuração
