@@ -1,6 +1,6 @@
 {
     "name": "punk-sama/chama-samu",
-    "description": "Debugger PHP do Sabada\u0000o",
+    "description": "Debugger PHP do Sabadao",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,10 +15,6 @@
         }
     ],
     "require": {
-        'php': '>= 7.4 && < 8.0'
-    },
-    "recommend": {
-        'phpstan/phpstan': '^0.12',
-        'symfony/debug-pack': '^5.4'
+        "php": ">= 7.4 && < 8.0"
     }
 }
