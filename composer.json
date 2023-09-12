@@ -17,6 +17,8 @@
     "require": {
         "php": "^7.4",
         "punk-sama/chama-samu": "dev-master"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
 
