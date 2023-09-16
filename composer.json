@@ -17,7 +17,6 @@
     "require": {
         "php": "^8.0"
     },
-    "minimum-stability": "beta",
-    "prefer-stable": true
+    "minimum-stability": "alpha"
 }
 
